@@ -16,7 +16,7 @@
 *.sln
 
 # Generated files
-dist/
+
 
 # Logs
 logs
